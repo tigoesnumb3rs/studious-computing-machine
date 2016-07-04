@@ -1,0 +1,18 @@
+{
+"Nodes":"1",
+"Processes":"13",
+"Timelimit":"7200",
+"Backuprate":"100",
+"Density":"0.7",
+"Particles":"5000",
+"Runs":"10",
+"IntPerRun":"1000",
+"SimulationType":"Exclusive",
+"ESPResSoVersion":"ESPResSo-3.2.0-3463-gf503972-git",
+"BoostVersion":"1.60.0",
+"MPIVersion":"1.10.1",
+"Date":"2016-06-26-18-33",
+"ModulesLoaded":"fftw/3.3.4/gcc,cuda/7.5,hdf5/1.8.15/gcc,openmpi/1.10.1,binutils/2.25,gcc/4.9.3,boost/1.60.0,python/2.7",
+"Simulation":"look at dirname",
+"CompileFlags":"none",
+"MeasureStdErr":"yes"
